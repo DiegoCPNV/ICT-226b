@@ -1,0 +1,14 @@
+C:\226b\Bird2\bin\Debug\net6.0\Bird2.exe
+C:\226b\Bird2\bin\Debug\net6.0\Bird2.deps.json
+C:\226b\Bird2\bin\Debug\net6.0\Bird2.runtimeconfig.json
+C:\226b\Bird2\bin\Debug\net6.0\Bird2.dll
+C:\226b\Bird2\bin\Debug\net6.0\Bird2.pdb
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.GeneratedMSBuildEditorConfig.editorconfig
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.AssemblyInfoInputs.cache
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.AssemblyInfo.cs
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.csproj.CoreCompileInputs.cache
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.dll
+C:\226b\Bird2\obj\Debug\net6.0\refint\Bird2.dll
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.pdb
+C:\226b\Bird2\obj\Debug\net6.0\Bird2.genruntimeconfig.cache
+C:\226b\Bird2\obj\Debug\net6.0\ref\Bird2.dll
